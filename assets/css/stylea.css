@@ -56,14 +56,13 @@ a {
 
 html,
 body {
-  scroll-behavior: smooth;
-  background-color: rgb(16, 43, 93);
-}
-
-body {
   font-family: "Montserrat", sans-serif;
   color: var(--white);
   background-image: var(--gradient-1);
+    scroll-behavior: smooth;
+  background-color: rgb(16, 43, 93);
+
+
 }
 .header__container {
   padding-top: 8rem;
